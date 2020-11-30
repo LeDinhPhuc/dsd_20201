@@ -1,9 +1,6 @@
 # Package-lock.json
 package-lock.json
 
-# Build
-build/
-
 # Logs
 logs
 *.log
@@ -17,4 +14,3 @@ yarn.lock
 
 #Lib
 node_modules/
-
